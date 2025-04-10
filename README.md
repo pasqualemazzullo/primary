@@ -15,10 +15,33 @@ L'applicazione è **nativa per Android**, sviluppata con **Flutter**, sfruttando
 
 ## 🎓 Contesto del progetto
 
-Questo progetto è stato realizzato per l’esame di **Progettazione di Applicazioni Mobili** presso l’**Università degli Studi di Udine**, tenuto dal **Prof. Stefano Burigat**.
+Questo progetto è stato realizzato per l'esame di **Progettazione di Applicazioni Mobili** presso l'**Università degli Studi di Udine**, tenuto dal **Prof. Stefano Burigat**.
 
 L'attività ha previsto:
-
 - La **progettazione** dell'applicazione, guidata da assignment specifici che definiscono le tecniche e la documentazione da produrre.
-- L’**implementazione** completa di una versione funzionante e installabile.
+- L'**implementazione** completa di una versione funzionante e installabile.
 - La **discussione finale** del progetto durante l'appello d'esame.
+
+## 🔧 Requisiti
+
+- Flutter 3.29.0 o superiore
+- Dart 3.7.0 o superiore
+- DevTools 2.42.2 o superiore
+
+## ⬇️ Installazione
+
+1. **Clona il repository**
+   ```bash
+   git clone https://github.com/pasqualemazzullo/primary.git
+   cd primary
+   ```
+
+2. **Installa le dipendenze**
+   ```bash
+   flutter pub get
+   ```
+
+3. **Esegui l'applicazione**
+   ```bash
+   flutter run
+   ```
